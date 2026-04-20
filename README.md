@@ -11,7 +11,7 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
 
 ## Table of Contents
 [Lab Environment and Components](#lab-environment-and-components)
-
+[Software, Tools, & Monitoring](#software/-tools-&-monitoring)
 
 ### Lab Environment and Components
 <details>
