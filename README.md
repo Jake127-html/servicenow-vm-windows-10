@@ -10,7 +10,7 @@ Analysis was conducted in a sandboxed Windows 10 Virtual Machine through Virtual
 Most installed PUPs utilized software bundling, prompting the user to install other software. "AV Antivirus" and "Avast Antivrus" had an estimated 2/3~ detection rate of downloaded Malware and or suspicious files. However, "RAV Endpoint Detection" had the highest accuracy of all three web-installed Antiviruses. This software was able to detect approximately 3x~ the amount of Malware and or suspicious files as the other two.
 
 ## Table of Contents
-[Lab Environment and Components](#lab-environment-and-components)
+[Lab Environment and Components](#lab-environment-and-components)  
 [Software, Tools, & Monitoring](#software/-tools-&-monitoring)
 
 ### Lab Environment and Components
