@@ -8,6 +8,11 @@ The purpose of this lab is to further the Cybersecurity field by providing Threa
 The range of software analyzed include but are not limited to: AV Antirus, iWinGames, Minecraft 1.16.2 Torrent, Comodo Dragon Chromium Browser, and CC Cleaner 7.
 Analysis was conducted in a sandboxed Windows 10 Virtual Machine through Virtualbox Hypervisor. Monitoring was done through Task Manager and Resource Monitor as well as analyzing system changes or alerts during and after installation. Windows Defender and its' associated security measures were disabled to test the detection rate of web-installed Anitviruses and the full effect of installed PUPs.
 Most installed PUPs utilized software bundling, prompting the user to install other software. "AV Antivirus" and "Avast Antivrus" had an estimated 2/3~ detection rate of downloaded Malware and or suspicious files. However, "RAV Endpoint Detection" had the highest accuracy of all three web-installed Antiviruses. This software was able to detect approximately 3x~ the amount of Malware and or suspicious files as the other two.
+
+## Table of Contents
+[Lab Environment and Components](#lab-environment-and-components)
+
+
 ### Lab Environment and Components
 <details>
 <summary> Click to see Lab Environment and Components </summary>
@@ -173,6 +178,7 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
 
   <img width="1024" height="791" alt="83" src="https://github.com/user-attachments/assets/b0644cf2-aa94-4479-bc7b-f6e0d6b43aa2" />
 
+  <img width="823" height="758" alt="84" src="https://github.com/user-attachments/assets/98f5505c-ce93-4bdb-a413-e4f734e722f6" />
 
 
 
