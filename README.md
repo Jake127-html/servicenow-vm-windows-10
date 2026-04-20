@@ -147,4 +147,40 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
 
     <img width="1008" height="626" alt="73" src="https://github.com/user-attachments/assets/ab363807-9f97-4484-81ba-94339ad3cfc6" />
 
+        
+          [C]Website: pcapp.store/
+            
+          Software: PC App Store
+
+          Description: Advertises itself as a software platform to download games, productivity software, entertainment and, 
+          "exclusive deals." 
+
+          ICANN Lookup: LIMITED INFORMATION. ICAAN reported a failure to process further information due to an error. The site host
+          provider is Galcomm(http://www.galcomm.com.) Continuing investigations, it was found that the 
+          abuse report number was found on another extremely suspicious site from the same host, Galcomm. 
+          ANIMESUBID.XYZ returne the same abuse number as pcapp.store. 
+          It was determined to be unsafe in continuing investigations on ANIMESUBID.XYZ unless inside a virtual machine,
+          which would be outside the scope of this lab. 
+
+          Malware Detection Summary:
+          Total AV and Avast Antivirus both cancelled the installation shortly after running and quarantined multiple
+          files every time (even with exceptions) all with the heuristic markers of Win64:MalwareX-gen [Adw]
+          
+          Note: Pc App Store was not able to be fully investigated, as numerous Antivirus issues prevented
+          the installation from completing. Additionally, an online support agent admitted PC App Store is Adware.
+          Even worse, their LinkedIn page had the following link as a website URL:
+          https://www.linkedin.com/safety/notfound?_l=en_US
+
+  <img width="1024" height="791" alt="83" src="https://github.com/user-attachments/assets/b0644cf2-aa94-4479-bc7b-f6e0d6b43aa2" />
+
+
+
+
+
+
+
+
+
+
+
 </details>
