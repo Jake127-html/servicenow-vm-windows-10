@@ -206,25 +206,46 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
     ICANN Lookup Result: 
 
     Note:
+
+    The conclusion of the software functionality is as follows; 
+    
+    The software has been determined to be ADWARE or a PUP.
+    
+    Only 11% of the Software is functional. This is due to the rampant "Trial or registration" requirement for in-app feature. Worse,
+    Some features, even if they were completely free, did not properly function and resulted in errors, or endless stalling(In the case
+    of the Software Updater.) It is advised to, instead of utilizing CCleaner, default to built-in Windows tools for performing every
+    function this software displays, without installing anything, or even a membership.
+    
     Functionalities Of Software
     1. Health Check: 3 Step proccess to maintain your Computer's health. 
         A. Privacy: Delete ALL temporary web browser data
         B. More Space: Delete ALL [basic] temporary system data.
-        C. Resolve Issues: Speed up PC, update apps & drivers. Unusable without trial or membership. Efficacy unknown.[X]
+        C. Resolve Issues: Speed up PC, update apps & drivers. Unusable without trial or membership.                      Efficacy unknown[X]
+    
     2. Custom Clean: Scan your Computer for obsolete or malicious data; Junk, Browser, and Registry.
-        Effective in remove obsolete data. Successfuly removed several malicious Registry Rules + backed up beforehand.
-        Two of the Registry rule values deleted: 
+        Effective in remove obsolete data. Successfuly removed several malicious Registry Rules + backed up beforehand.   Efficient       [Y]
+        One of the Registry rules deleted: 
         v2.30|Action|=Allow|Active=TRUE|Dir=In|App=C:\ProgramData\WindowsTask\AppModule.exe|Name=Shadow Service|
-        
-    3.Performance Optimizer: Puts high-performance apps to sleep. Unusable without trial or membership. Efficacy unknown. [X]
+
+    3. Performance Optimizer: Puts high-performance apps to sleep. Unusable without trial or membership.                  Efficacy unknown[X]
+
+    4. Driver Updater: Update or skip & ignore drivers. Unusuable without trial or membership.                            Efficacy unknown[X] 
     
+    5. Software Updater: Operating System updates. Unusuable, update stalled for long periods of time.                    Efficacy unknown[X]
+
+    6. Cloud Driver Cleaner: Save space in cloud storage. Unusuable without trial or membership.                          Efficacy unknown[X]
+
+    7. Uninstaller: Uninstall software and oversee least used apps, or temporarily uninstall apps.                        Semi-efficient  [-]
+    Temporary uninstall unusuable without trial or membership. Pointless, use Windows uninstall instead.
+    
+    8. Duplicate Finder: Scan for & delete duplicate files either generically or a specific folder. Unusuable.            Efficacy unknown[X]
+    Both options did not function.
+
+    9. Startup Manager: Manage startup apps and background processes. Offers same functionality as Task Manager.          Not efficient   [X]
     
 
 
-
-
-
-
+<img width="997" height="647" alt="87" src="https://github.com/user-attachments/assets/54598406-934b-44e9-9619-2de7825cc759" />
 
 
 
@@ -333,5 +354,7 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
 
 
 </details>
+
+
 ### Bottom of page
 [Click to go to the top of the page.](#top-of-page)
