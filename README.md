@@ -61,7 +61,8 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
   Additionally, any time a new "Download" button appeared on screen, or a software was reccomended bundled with potenital PUPs, it was downloaded.
 
    <details>
-        <summary>Click to see detailed Video Game Software Entries</summary>
+
+  <summary>Click to see detailed Video Game Software Entries</summary>
         
           Videogame Related Software:
   
@@ -189,8 +190,9 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
 
 
 </details>
-<details>
 
+<details>
+ <summary>Click to see detailed Utility Software Entries</summary>
        Utility Related Software:
 
     [D] Website: ccleaner.com/?srsltid=AfmBOoo1CdFKg-wManz5pTQSsjl4ryb8lhzgFJhVLfsWee_8_U2doANR
@@ -243,116 +245,26 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
 
     9. Startup Manager: Manage startup apps and background processes. Offers same functionality as Task Manager.          Not efficient   [X]
     
-
-
 <img width="997" height="647" alt="87" src="https://github.com/user-attachments/assets/54598406-934b-44e9-9619-2de7825cc759" />
 
 
+    [E] Website: ccleaner.com/?srsltid=AfmBOoo1CdFKg-wManz5pTQSsjl4ryb8lhzgFJhVLfsWee_8_U2doANR
 
+    Software: Ccleaner
 
+    Description: Advertises itself as an optimization and utility software that can free up storage, 
+    "boost your privacy." With a membership it can (allegedly) make your computer faster and free
+    up storage on Google Drive and Microsoft OneDrive.
 
+    Malware Detection: 
 
+    ICANN Lookup Result: 
 
+    Note:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    The conclusion of the software functionality is as follows; 
+    
+    The software has been determined to be ADWARE or a PUP.
 </details>
 
 
