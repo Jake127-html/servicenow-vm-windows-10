@@ -60,8 +60,7 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
   ~~~
   Additionally, any time a new "Download" button appeared on screen, or a software was reccomended bundled with potenital PUPs, it was downloaded.
 
-   <details>
-
+  <details>
   <summary>Click to see detailed Video Game Software Entries</summary>
         
           Videogame Related Software:
@@ -128,31 +127,16 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
           
      <img width="856" height="312" alt="77" src="https://github.com/user-attachments/assets/6404f1f1-55ed-4ca4-ad46-0176f19a7415" />
 
-
-
-
      <img width="827" height="352" alt="75" src="https://github.com/user-attachments/assets/ffcfa3f1-9ae0-4151-b30b-b9dc2b59d487" />
-
-     
-
 
      <img width="824" height="398" alt="76" src="https://github.com/user-attachments/assets/54a581c5-987b-4afe-b2f3-96f2a459ad5e" />
 
-
-
-
      <img width="564" height="355" alt="78" src="https://github.com/user-attachments/assets/44abfdf0-f99d-4d03-8844-e423a4140284" />
-
-
 
     <img width="1006" height="622" alt="72" src="https://github.com/user-attachments/assets/664bc4b7-603c-435b-a67d-e53a3b5ba1c6" />
 
-
-
-
     <img width="1008" height="626" alt="73" src="https://github.com/user-attachments/assets/ab363807-9f97-4484-81ba-94339ad3cfc6" />
 
-        
           [C]Website: pcapp.store/
             
           Software: PC App Store
@@ -180,19 +164,10 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
 
   <img width="823" height="758" alt="84" src="https://github.com/user-attachments/assets/98f5505c-ce93-4bdb-a413-e4f734e722f6" />
 
-
-
-
-
-
-
-
-
-
 </details>
 
 <details>
- <summary>Click to see detailed Utility Software Entries</summary>
+<summary>Click to see detailed Utility Software Entries</summary>
        Utility Related Software:
 
     [D] Website: ccleaner.com/?srsltid=AfmBOoo1CdFKg-wManz5pTQSsjl4ryb8lhzgFJhVLfsWee_8_U2doANR
@@ -203,9 +178,11 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
     "boost your privacy." With a membership it can (allegedly) make your computer faster and free
     up storage on Google Drive and Microsoft OneDrive.
 
-    Malware Detection: 
-
-    ICANN Lookup Result: 
+    Malware Detection: Not detected as Malware.
+    
+    ICANN Lookup Result:  All redacted for privacy.
+    ITSNOTSKELETON-NETWORK Ltd.
+    +1.2086851750
 
     Note:
 
@@ -247,26 +224,107 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
     
 <img width="997" height="647" alt="87" src="https://github.com/user-attachments/assets/54598406-934b-44e9-9619-2de7825cc759" />
 
+</details>
 
-    [E] Website: ccleaner.com/?srsltid=AfmBOoo1CdFKg-wManz5pTQSsjl4ryb8lhzgFJhVLfsWee_8_U2doANR
+<details><summary>Click to see Antivirus Related Entries</summary>
 
-    Software: Ccleaner
+    [E] Website: avast.com/free-antivirus-download#pc
+            
+    Software: Avast Free Antivirus
 
-    Description: Advertises itself as an optimization and utility software that can free up storage, 
-    "boost your privacy." With a membership it can (allegedly) make your computer faster and free
-    up storage on Google Drive and Microsoft OneDrive.
+    Description: Advertises itself as a free Antivirus with award winning protection.
 
-    Malware Detection: 
+    ICANN Lookup: 
+    ITSNOTSKELETON-NETWORK Ltd.
+    +1.2086851750
 
-    ICANN Lookup Result: 
-
-    Note:
+    Note: Even though this software should NEVER be installed in a legitimate scenario at least it provides a firewall log
+    of all block incoming and outgoing connection.
 
     The conclusion of the software functionality is as follows; 
     
-    The software has been determined to be ADWARE or a PUP.
-</details>
+    The software has been determined to be Greyware.
+    
+    Problems:
+    At first, Avast detected iWin Games as adware, then during a second round of manual scanning,
+    it was NOT detected whatsoever.
+    Smart scan DO NOT show up in scan history.
+    Once a scan completes it warns in over 6 ways the device is at risk, however, it doesn't show what exactly
+    is making the device vulnerable, even if you click on each warning. Resolving these warnings are not possible
+    without a trial or membership. Additionally, if the warnings are skipped, the software goes right back to the home
+    screen where it says "This computer is protected." 
+    Most functions are blocked by a trial or membership.
 
+    EICAR Detection Summary
+    1. EICAR.COM       [PASS]
+    2. EICAR.COM.TXT   [PASS]
+    3. EICAR.COM.ZIP   [PASS]
+    4. EICAR.COM-2.ZIP [PASS]
+
+    Malware Detection Summary:
+    Multiple PUPs were dected during stress testing and immediately quarantined, however
+    iWin Games posed an excpeption. It was inconsistently detected. After initial
+    installation it was  immediately detected as Adware. However, a later targeted scan of all 
+    directories containg iWin Games files did NOT pose any warnings.
+    
+  <img width="938" height="627" alt="89" src="https://github.com/user-attachments/assets/ab622bba-015e-4926-a72c-d6c3835ef224" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+</details>
 
 ### Bottom of page
 [Click to go to the top of the page.](#top-of-page)
