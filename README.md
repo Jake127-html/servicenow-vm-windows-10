@@ -189,6 +189,27 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
 
 
 </details>
+<details>
+
+       Utility Related Software:
+
+    [D] Website: ccleaner.com/?srsltid=AfmBOoo1CdFKg-wManz5pTQSsjl4ryb8lhzgFJhVLfsWee_8_U2doANR
+
+    Software: Ccleaner
+
+    Description: Advertises itself as an optimization and utility software that can free up storage, 
+    "boost your privacy." With a membership it can (allegedly) make your computer faster and free
+    up storage on Google Drive and Microsoft OneDrive.
+
+    Malware Detection: 
+
+    ICANN Lookup Result: 
+
+    Note:
+
+    "Functionalities" Of Software
+    Performance Optimizer: Puts high-performance apps to sleep. Unusable without trial or membership. [X]
+    
 
 
 
@@ -245,5 +266,63 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</details>
 ### Bottom of page
 [Click to go to the top of the page.](#top-of-page)
