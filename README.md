@@ -206,9 +206,18 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
     ICANN Lookup Result: 
 
     Note:
-
-    "Functionalities" Of Software
-    Performance Optimizer: Puts high-performance apps to sleep. Unusable without trial or membership. [X]
+    Functionalities Of Software
+    1. Health Check: 3 Step proccess to maintain your Computer's health. 
+        A. Privacy: Delete ALL temporary web browser data
+        B. More Space: Delete ALL [basic] temporary system data.
+        C. Resolve Issues: Speed up PC, update apps & drivers. Unusable without trial or membership. Efficacy unknown.[X]
+    2. Custom Clean: Scan your Computer for obsolete or malicious data; Junk, Browser, and Registry.
+        Effective in remove obsolete data. Successfuly removed several malicious Registry Rules + backed up beforehand.
+        Two of the Registry rule values deleted: 
+        v2.30|Action|=Allow|Active=TRUE|Dir=In|App=C:\ProgramData\WindowsTask\AppModule.exe|Name=Shadow Service|
+        
+    3.Performance Optimizer: Puts high-performance apps to sleep. Unusable without trial or membership. Efficacy unknown. [X]
+    
     
 
 
