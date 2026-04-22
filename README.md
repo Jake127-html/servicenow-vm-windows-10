@@ -276,25 +276,17 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
     Description: Advertises itself as an award-winning Antivirus
 
     ICANN Lookup: 
-    ITSNOTSKELETON-NETWORK Ltd.
-    +1.2086851750
+    Enom
+    +1.4259744689
 
-    Note: Even though this software should NEVER be installed in a legitimate scenario at least it provides a firewall log
-    of all block incoming and outgoing connection.
+    Note: 
 
     The conclusion of the software functionality is as follows; 
     
-    The software has been determined to be Greyware.
+    The software has been determined to be 
     
     Problems:
-    At first, Avast detected iWin Games as adware, then during a second round of manual scanning,
-    it was NOT detected whatsoever.
-    Smart scan DO NOT show up in scan history.
-    Once a scan completes it warns in over 6 ways the device is at risk, however, it doesn't show what exactly
-    is making the device vulnerable, even if you click on each warning. Resolving these warnings are not possible
-    without a trial or membership. Additionally, if the warnings are skipped, the software goes right back to the home
-    screen where it says "This computer is protected." 
-    Most functions are blocked by a trial or membership.
+    
 
     EICAR Detection Summary
     1. EICAR.COM       [PASS]
