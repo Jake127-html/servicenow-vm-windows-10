@@ -276,31 +276,72 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
     Description: Advertises itself as an award-winning Antivirus
 
     ICANN Lookup: 
-    Enom
-    +1.4259744689
+    NA
+    NA
 
+    Note: UNKWN
+
+    The conclusion of the software functionality is as follows; 
+    
+    The software has been determined to be UNKWN
+    
+    Problems: UNKWN
+    
+
+    EICAR Detection Summary
+    1. EICAR.COM       [UNKWN]
+    2. EICAR.COM.TXT   [UNKWN]
+    3. EICAR.COM.ZIP   [UNKWN]
+    4. EICAR.COM-2.ZIP [UNKWN]
+
+    Malware Detection Summary:
+    Several times during the course of this lab, Total AV "corrupted" and began 
+    "repairing" the Antivirus Engine. Initially, the entry of this Antivirus was skipped
+    to account for the excess waiting time. 
+    However, 5+ hours since the last "break" and Total AV is still "repairing" itself.
+    
+    Any interaction with Total AV previously was done throughout several hours of the lab,
+    before Antivirus entries began.
+
+
+
+    [G] Website: reasonlabs.com/platform/products/endpoint-protection
+            
+    Software: RAV Endpoint Protection
+
+    Description: Advertises itself as a Next-Gen Antivirus powered by AI-Cybersecurity. 
+
+    ICANN Lookup: 
+    Beaconmast
+    +1.4806242599
+    Registrant forms are far more transparent then every other ICAAN lookup within this lab.
+    
     Note: 
 
     The conclusion of the software functionality is as follows; 
     
-    The software has been determined to be 
+    The software has been determined to be Greyware
     
     Problems:
-    
+    Without going into the type of heuristics RAV Endpoint tracks, it only passed 3/4 EICAR tests.
+    The concern here is the method of heuristics tracking. EICAR.COM.ZIP passed with a SEMI-PASS.
+    However, EICAR.COM(-2).ZIP was a complete fail. 
 
+    RAV Endpoint Detection did an automatic scan and detected a temporary file by Total AV to be 
+    suspicious. Therefore, I scanned the exact directory using Avast Free Antivirus and there was nothing detected.
+    The file path is:
+    C:\Program Files (x86)\TotalAV\EndPoint Protection SK\coresdk\avcp-engine-1\is-DOLOJ.tmp.
+    It is unknown at this time if this truly is a suspicious file or this is a simple accident.
+    
     EICAR Detection Summary
-    1. EICAR.COM       [PASS]
-    2. EICAR.COM.TXT   [PASS]
-    3. EICAR.COM.ZIP   [PASS]
-    4. EICAR.COM-2.ZIP [PASS]
+    1. EICAR.COM       [SEMI-PASS] Removed on execution, NOT automatically quarantined. 
+    2. EICAR.COM.TXT   [SEMI-PASS] Removed on execution, NOT automatically quarantined. 
+    3. EICAR.COM.ZIP   [SEMI-PASS]Removed on execution, NOT automatically quarantined. 
+    4. EICAR.COM-2.ZIP [FAIL] Complete absence of detection by RAV Endpoint Protection.
 
     Malware Detection Summary:
-
-
-
-
-
-
+    Multiple PUPs were dected during stress testing and NOT quarantined. For unknown reasons
+    the quarantine feature DID NOT work. Basic 
 
 
 
