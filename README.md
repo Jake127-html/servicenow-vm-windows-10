@@ -351,52 +351,28 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
 
 <img width="980" height="656" alt="91" src="https://github.com/user-attachments/assets/743cd7af-58ef-4e59-9b80-92a1e88405de" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
 </details>
+
+## Limitations
+Although this Lab provides valuable insights into the perceived authenticity of free online software, several limitations must be aknowledged.
+
+**First, the sample size was small.** This Lab focused on a few downloaded software on a single Virtual Machine. Therefore, the findings
+may not be applicable to other experiences. Future research should aim to include either A.) Singularly focused on a software
+and its' underlying code. B.) A larger, more diverse set of downloaded software across multiple Virtual Machines.
+
+**Second, the data relied heavily on perceived experience.** While the user experience is important, it is subject to bias and can vary
+from user to user. On the other hand, using software and tools to understand what is happening beneath the user experience can reveal
+data that does **not** vary from user-to-user.
+
+**Third, the Lab was completed by an Undergraduate who's credibility has not yet been established.** Although the Lab aims to analyze
+software, the methods used could have been more rigorous. Methods included but not limited to are; decompiling code, examining logs, packets,
+downloading a greater variety of free software, and testing across different Virtual Machines potentially utilizing alternative versions
+of the Windows operating system.
+
+**Finally, the duration of this lab was limited to a few weeks.** The time alotted may not be enough to account for potential long-term 
+effects of continuously downloading free software online; Or further testing within that time-frame. 
+
+
 
 ### Bottom of page
 [Click to go to the top of the page.](#top-of-page)
