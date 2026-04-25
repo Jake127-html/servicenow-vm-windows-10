@@ -61,7 +61,7 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
   Additionally, any time a new "Download" button appeared on screen, or a software was reccomended bundled with potenital PUPs, it was downloaded.
 
   <details>
-  <summary>Click to see detailed Video Game Software Entries</summary>
+  <summary>Click to see Video Game Software Related Entries</summary>
         
           Videogame Related Software:
   
@@ -167,7 +167,7 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
 </details>
 
 <details>
-<summary>Click to see detailed Utility Software Entries</summary>
+<summary>Click to see Utility Software related Entries</summary>
        Utility Related Software:
 
     [D] Website: ccleaner.com/?srsltid=AfmBOoo1CdFKg-wManz5pTQSsjl4ryb8lhzgFJhVLfsWee_8_U2doANR
@@ -226,7 +226,7 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
 
 </details>
 
-<details><summary>Click to see Antivirus Related Entries</summary>
+<details><summary>Click to see Antivirus Software Related Entries</summary>
 
     [E] Website: avast.com/free-antivirus-download#pc
             
@@ -304,6 +304,9 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
     before Antivirus entries began.
 
 
+<img width="765" height="675" alt="90" src="https://github.com/user-attachments/assets/fb2afeb1-e34d-41c5-93bb-0726cc70a573" />
+
+
 
     [G] Website: reasonlabs.com/platform/products/endpoint-protection
             
@@ -317,6 +320,8 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
     Registrant forms are far more transparent then every other ICAAN lookup within this lab.
     
     Note: 
+
+    The Adblocking feature of RAV Endpoint is roughly 40% succesful on average.
 
     The conclusion of the software functionality is as follows; 
     
@@ -341,9 +346,10 @@ Most installed PUPs utilized software bundling, prompting the user to install ot
 
     Malware Detection Summary:
     Multiple PUPs were dected during stress testing and NOT quarantined. For unknown reasons
-    the quarantine feature DID NOT work. Basic 
+    the quarantine feature DID NOT work.
 
 
+<img width="980" height="656" alt="91" src="https://github.com/user-attachments/assets/743cd7af-58ef-4e59-9b80-92a1e88405de" />
 
 
 
